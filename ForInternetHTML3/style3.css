@@ -1,0 +1,16 @@
+#f{
+    font-weight: 20px !important;
+    text-shadow: 2px 2px 2px green;
+}
+
+#b{
+    text-transform: uppercase;
+}
+
+#p{
+    color: lime;
+}
+
+#i{
+    text-shadow: 2px 2px 2px red;
+}

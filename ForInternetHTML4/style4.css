@@ -1,0 +1,31 @@
+div{
+    display: block;
+    text-align: center;
+}
+
+form{
+    display: inline-block;
+    margin: auto;
+    text-align: left;
+}
+
+input, select{
+    width: 200px;
+    margin-bottom: 5px;
+}
+
+textarea{
+    width: 200px;
+    max-width: 200px;
+    margin-bottom: 5px;
+}
+
+#button{
+    width: 100px;
+    height: 30px;
+    float: right;
+}
+
+h2{
+    text-align: center;
+}

@@ -1,0 +1,15 @@
+table{
+    width: 100% !important;
+    height:97vh !important;
+    border-color: black;
+    border-collapse: collapse;
+}
+
+td{
+    padding: 0px;
+}
+
+#cat1, #cat2, #cat3{
+    width: 200px;
+    height: auto;
+}
